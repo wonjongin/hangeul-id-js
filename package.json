@@ -2,8 +2,8 @@
   "name": "hangeul-id",
   "version": "0.1.0",
   "description": "Unique shorter id using Hanguel",
-  "main": "dist/hangeul-id.js",
-  "types": "dist/hangeul-id.d.ts",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc",
     "lint": "prettier --check \"lib/**/*.ts\" \"test/**/*.ts\"",
